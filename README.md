@@ -9,5 +9,4 @@ Başlangıç dosyaları:
 
 Bu çalışma sırasında temel Git komutları denenecek.
 Bu satır feature dalında eklendi.
-Bu depo yerel ve uzak Git işlemleri için kullanılır.
 Bu değişiklik ikinci klondan gönderildi.
