@@ -11,3 +11,4 @@ Bu çalışma sırasında temel Git komutları denenecek.
 Bu satır feature dalında eklendi.
 Bu değişiklik ikinci klondan gönderildi.
 Rebase alıştırması için ilk kayıt.
+Rebase alıştırması için ikinci kayıt.
